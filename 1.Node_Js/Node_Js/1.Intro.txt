@@ -1,0 +1,15 @@
+Backend:
+
+Q> what is node js?
+ans - An asynchronous event-driven js runtime, node.js is designed to to build scalable network applications.
+-> what is runtime environment: js was designed to run in the browser only.
+-> node.js provide freedom to js to use it to write any sort of applications, desktop or server side.
+-> node provide us with js runtime so that we can run js on a machine such as your own local computer.
+-> node is javascript runtime.
+
+=> Node REPL : Node Read Eval Print Loop : It is a computer environment where user inputs are evaluated, and then results are
+               returned to the user.
+
+             -> Type command 'node' in terminal to start the node repl environment.
+             -> .help -> to see all cmds and uses.
+             -> .exit -> To exist from the node repl.
